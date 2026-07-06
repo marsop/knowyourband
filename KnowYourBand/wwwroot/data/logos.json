@@ -23,5 +23,6 @@
     { "name": "Bloodbath", "logo": "images/logos/bloodbath.png" },
     { "name": "At the Gates", "logo": "images/logos/atthegates.png" },
     { "name": "Dark Tranquillity", "logo": "images/logos/darktranquillity.png" },
-    { "name": "In Flames", "logo": "images/logos/inflames.png" }
+    { "name": "In Flames", "logo": "images/logos/inflames.png" },
+    { "name": "Untides", "logo": "images/logos/untides.png" }
 ]
