@@ -5,6 +5,10 @@ on:
   push:
     branches: [ main, master ]
 
+concurrency:
+  group: deploy-to-github-pages
+  cancel-in-progress: true
+
 jobs:
   deploy-to-github-pages:
     # use ubuntu-latest image to run steps on
