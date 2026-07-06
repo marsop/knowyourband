@@ -1,7 +1,67 @@
-﻿@page "/"
+@page "/"
+@inject LogoGameService GameService
 
-<PageTitle>Home</PageTitle>
+<PageTitle>Know Your Band</PageTitle>
 
-<h1>Hello, world!</h1>
+<h1>Know Your Band!</h1>
 
-Welcome to your new app.
+<p>Guess the death metal band by their logo.</p>
+
+<div class="mb-3">
+    <strong>Score: @GameService.Score</strong>
+</div>
+
+@if (GameService.CurrentLogo == null)
+{
+    <p><em>Loading logos...</em></p>
+}
+else
+{
+    <div class="card mb-4" style="max-width: 500px; margin: 0 auto; background-color: #f8f9fa;">
+        <div class="card-body text-center p-4">
+            <img src="@GameService.CurrentLogo.Logo" alt="Band Logo" style="max-width: 100%; max-height: 250px;" class="mb-4" />
+
+            @if (!GameService.HasGuessed)
+            {
+                <form @onsubmit="SubmitGuess" class="d-flex justify-content-center gap-2">
+                    <input type="text" class="form-control" placeholder="Enter band name..." @bind="currentGuess" autofocus style="max-width: 300px;" />
+                    <button type="submit" class="btn btn-primary">Guess</button>
+                </form>
+            }
+            else
+            {
+                <div class="alert @(GameService.Feedback.StartsWith("Correct") ? "alert-success" : "alert-danger") mt-3">
+                    @GameService.Feedback
+                </div>
+
+                <button class="btn btn-secondary mt-2" @onclick="NextLogo">Next Logo</button>
+            }
+        </div>
+    </div>
+}
+
+@code {
+    private string currentGuess = string.Empty;
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (GameService.CurrentLogo == null)
+        {
+            await GameService.InitializeAsync();
+        }
+    }
+
+    private void SubmitGuess()
+    {
+        if (!string.IsNullOrWhiteSpace(currentGuess))
+        {
+            GameService.CheckGuess(currentGuess);
+        }
+    }
+
+    private void NextLogo()
+    {
+        currentGuess = string.Empty;
+        GameService.NextLogo();
+    }
+}
