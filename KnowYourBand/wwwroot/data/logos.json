@@ -1,28 +1,106 @@
 [
-    { "name": "Death", "logo": "images/logos/death.png" },
-    { "name": "Cannibal Corpse", "logo": "images/logos/cannibalcorpse.png" },
-    { "name": "Morbid Angel", "logo": "images/logos/morbidangel.png" },
-    { "name": "Obituary", "logo": "images/logos/obituary.png" },
-    { "name": "Deicide", "logo": "images/logos/deicide.png" },
-    { "name": "Suffocation", "logo": "images/logos/suffocation.png" },
-    { "name": "Entombed", "logo": "images/logos/entombed.png" },
-    { "name": "Dismember", "logo": "images/logos/dismember.png" },
-    { "name": "Carcass", "logo": "images/logos/carcass.png" },
-    { "name": "Bolt Thrower", "logo": "images/logos/boltthrower.png" },
-    { "name": "Napalm Death", "logo": "images/logos/napalmdeath.png" },
-    { "name": "Nile", "logo": "images/logos/nile.png" },
-    { "name": "Cryptopsy", "logo": "images/logos/cryptopsy.png" },
-    { "name": "Gorguts", "logo": "images/logos/gorguts.png" },
-    { "name": "Immolation", "logo": "images/logos/immolation.png" },
-    { "name": "Incantation", "logo": "images/logos/incantation.png" },
-    { "name": "Autopsy", "logo": "images/logos/autopsy.png" },
-    { "name": "Pestilence", "logo": "images/logos/pestilence.png" },
-    { "name": "Vader", "logo": "images/logos/vader.png" },
-    { "name": "Behemoth", "logo": "images/logos/behemoth.png" },
-    { "name": "Dying Fetus", "logo": "images/logos/dyingfetus.png" },
-    { "name": "Bloodbath", "logo": "images/logos/bloodbath.png" },
-    { "name": "At the Gates", "logo": "images/logos/atthegates.png" },
-    { "name": "Dark Tranquillity", "logo": "images/logos/darktranquillity.png" },
-    { "name": "In Flames", "logo": "images/logos/inflames.png" },
-    { "name": "Untides", "logo": "images/logos/untides.png" }
+    {
+        "name": "Death",
+        "logo": "images/logos/Death/death.png"
+    },
+    {
+        "name": "Cannibal Corpse",
+        "logo": "images/logos/Cannibal Corpse/cannibalcorpse.png"
+    },
+    {
+        "name": "Morbid Angel",
+        "logo": "images/logos/Morbid Angel/morbidangel.png"
+    },
+    {
+        "name": "Obituary",
+        "logo": "images/logos/Obituary/obituary.png"
+    },
+    {
+        "name": "Deicide",
+        "logo": "images/logos/Deicide/deicide.png"
+    },
+    {
+        "name": "Suffocation",
+        "logo": "images/logos/Suffocation/suffocation.png"
+    },
+    {
+        "name": "Entombed",
+        "logo": "images/logos/Entombed/entombed.png"
+    },
+    {
+        "name": "Dismember",
+        "logo": "images/logos/Dismember/dismember.png"
+    },
+    {
+        "name": "Carcass",
+        "logo": "images/logos/Carcass/carcass.png"
+    },
+    {
+        "name": "Bolt Thrower",
+        "logo": "images/logos/Bolt Thrower/boltthrower.png"
+    },
+    {
+        "name": "Napalm Death",
+        "logo": "images/logos/Napalm Death/napalmdeath.png"
+    },
+    {
+        "name": "Nile",
+        "logo": "images/logos/Nile/nile.png"
+    },
+    {
+        "name": "Cryptopsy",
+        "logo": "images/logos/Cryptopsy/cryptopsy.png"
+    },
+    {
+        "name": "Gorguts",
+        "logo": "images/logos/Gorguts/gorguts.png"
+    },
+    {
+        "name": "Immolation",
+        "logo": "images/logos/Immolation/immolation.png"
+    },
+    {
+        "name": "Incantation",
+        "logo": "images/logos/Incantation/incantation.png"
+    },
+    {
+        "name": "Autopsy",
+        "logo": "images/logos/Autopsy/autopsy.png"
+    },
+    {
+        "name": "Pestilence",
+        "logo": "images/logos/Pestilence/pestilence.png"
+    },
+    {
+        "name": "Vader",
+        "logo": "images/logos/Vader/vader.png"
+    },
+    {
+        "name": "Behemoth",
+        "logo": "images/logos/Behemoth/behemoth.png"
+    },
+    {
+        "name": "Dying Fetus",
+        "logo": "images/logos/Dying Fetus/dyingfetus.png"
+    },
+    {
+        "name": "Bloodbath",
+        "logo": "images/logos/Bloodbath/bloodbath.png"
+    },
+    {
+        "name": "At the Gates",
+        "logo": "images/logos/At the Gates/atthegates.png"
+    },
+    {
+        "name": "Dark Tranquillity",
+        "logo": "images/logos/Dark Tranquillity/darktranquillity.png"
+    },
+    {
+        "name": "In Flames",
+        "logo": "images/logos/In Flames/inflames.png"
+    },
+    {
+        "name": "Untides",
+        "logo": "images/logos/Untides/untides.png"
+    }
 ]
