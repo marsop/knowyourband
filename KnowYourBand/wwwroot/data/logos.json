@@ -102,5 +102,205 @@
     {
         "name": "Untides",
         "logo": "images/logos/Untides/untides.png"
+    },
+    {
+        "name": "Mayhem",
+        "logo": "images/logos/Mayhem/mayhem.png"
+    },
+    {
+        "name": "Darkthrone",
+        "logo": "images/logos/Darkthrone/darkthrone.png"
+    },
+    {
+        "name": "Emperor",
+        "logo": "images/logos/Emperor/emperor.png"
+    },
+    {
+        "name": "Immortal",
+        "logo": "images/logos/Immortal/immortal.png"
+    },
+    {
+        "name": "Gorgoroth",
+        "logo": "images/logos/Gorgoroth/gorgoroth.png"
+    },
+    {
+        "name": "Watain",
+        "logo": "images/logos/Watain/watain.png"
+    },
+    {
+        "name": "1349",
+        "logo": "images/logos/1349/1349.png"
+    },
+    {
+        "name": "Tsjuder",
+        "logo": "images/logos/Tsjuder/tsjuder.png"
+    },
+    {
+        "name": "Portal",
+        "logo": "images/logos/Portal/portal.png"
+    },
+    {
+        "name": "Teitanblood",
+        "logo": "images/logos/Teitanblood/teitanblood.png"
+    },
+    {
+        "name": "Mitochondrion",
+        "logo": "images/logos/Mitochondrion/mitochondrion.png"
+    },
+    {
+        "name": "Antediluvian",
+        "logo": "images/logos/Antediluvian/antediluvian.png"
+    },
+    {
+        "name": "Impetuous Ritual",
+        "logo": "images/logos/Impetuous Ritual/impetuousritual.png"
+    },
+    {
+        "name": "Grave Upheaval",
+        "logo": "images/logos/Grave Upheaval/graveupheaval.png"
+    },
+    {
+        "name": "Blasphemy",
+        "logo": "images/logos/Blasphemy/blasphemy.png"
+    },
+    {
+        "name": "Archgoat",
+        "logo": "images/logos/Archgoat/archgoat.png"
+    },
+    {
+        "name": "Beherit",
+        "logo": "images/logos/Beherit/beherit.png"
+    },
+    {
+        "name": "Profanatica",
+        "logo": "images/logos/Profanatica/profanatica.png"
+    },
+    {
+        "name": "Pseudogod",
+        "logo": "images/logos/Pseudogod/pseudogod.png"
+    },
+    {
+        "name": "Diocletian",
+        "logo": "images/logos/Diocletian/diocletian.png"
+    },
+    {
+        "name": "Revenge",
+        "logo": "images/logos/Revenge/revenge.png"
+    },
+    {
+        "name": "Conqueror",
+        "logo": "images/logos/Conqueror/conqueror.png"
+    },
+    {
+        "name": "Sanguisugabogg",
+        "logo": "images/logos/Sanguisugabogg/sanguisugabogg.png"
+    },
+    {
+        "name": "Demilich",
+        "logo": "images/logos/Demilich/demilich.png"
+    },
+    {
+        "name": "Wormed",
+        "logo": "images/logos/Wormed/wormed.png"
+    },
+    {
+        "name": "Defeated Sanity",
+        "logo": "images/logos/Defeated Sanity/defeatedsanity.png"
+    },
+    {
+        "name": "Devourment",
+        "logo": "images/logos/Devourment/devourment.png"
+    },
+    {
+        "name": "Cephalotripsy",
+        "logo": "images/logos/Cephalotripsy/cephalotripsy.png"
+    },
+    {
+        "name": "Epicardiectomy",
+        "logo": "images/logos/Epicardiectomy/epicardiectomy.png"
+    },
+    {
+        "name": "Kraanium",
+        "logo": "images/logos/Kraanium/kraanium.png"
+    },
+    {
+        "name": "Abominable Putridity",
+        "logo": "images/logos/Abominable Putridity/abominableputridity.png"
+    },
+    {
+        "name": "Visceral Disgorge",
+        "logo": "images/logos/Visceral Disgorge/visceraldisgorge.png"
+    },
+    {
+        "name": "Vulvodynia",
+        "logo": "images/logos/Vulvodynia/vulvodynia.png"
+    },
+    {
+        "name": "Extermination Dismemberment",
+        "logo": "images/logos/Extermination Dismemberment/exterminationdismemberment.png"
+    },
+    {
+        "name": "Waking the Cadaver",
+        "logo": "images/logos/Waking the Cadaver/wakingthecadaver.png"
+    },
+    {
+        "name": "Fluids",
+        "logo": "images/logos/Fluids/fluids.png"
+    },
+    {
+        "name": "Undergang",
+        "logo": "images/logos/Undergang/undergang.png"
+    },
+    {
+        "name": "Cerebral Rot",
+        "logo": "images/logos/Cerebral Rot/cerebralrot.png"
+    },
+    {
+        "name": "Fetid",
+        "logo": "images/logos/Fetid/fetid.png"
+    },
+    {
+        "name": "Tomb Mold",
+        "logo": "images/logos/Tomb Mold/tombmold.png"
+    },
+    {
+        "name": "Witch Vomit",
+        "logo": "images/logos/Witch Vomit/witchvomit.png"
+    },
+    {
+        "name": "Phrenelith",
+        "logo": "images/logos/Phrenelith/phrenelith.png"
+    },
+    {
+        "name": "Hyperdontia",
+        "logo": "images/logos/Hyperdontia/hyperdontia.png"
+    },
+    {
+        "name": "Chthe'ilist",
+        "logo": "images/logos/Chthe'ilist/chtheilist.png"
+    },
+    {
+        "name": "Spectral Voice",
+        "logo": "images/logos/Spectral Voice/spectralvoice.png"
+    },
+    {
+        "name": "Mortiferum",
+        "logo": "images/logos/Mortiferum/mortiferum.png"
+    },
+    {
+        "name": "Kruelty",
+        "logo": "images/logos/Kruelty/kruelty.png"
+    },
+    {
+        "name": "Undeath",
+        "logo": "images/logos/Undeath/undeath.png"
+    },
+    {
+        "name": "Pissgrave",
+        "logo": "images/logos/Pissgrave/pissgrave.png"
+    },
+    {
+        "name": "Blood Incantation",
+        "logo": "images/logos/Blood Incantation/bloodincantation.png"
     }
 ]
