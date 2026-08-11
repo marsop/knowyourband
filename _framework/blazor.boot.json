@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "KnowYourBand",
   "resources": {
-    "hash": "sha256-HlvKYVe4+WJ1YOjkNmpvR6yqX0SgNCZ8Jrcdz85aRRQ=",
+    "hash": "sha256-SK73NCXMHBrnOPGxYfS88Aeor5qG5+FDlelIfSg+wC8=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-JTswf4CBcNmmrTGm6DppxYNII8GVEmbA3iXD3bU1fcA="
     },
@@ -49,7 +49,7 @@
       "System.Text.Json.wasm": "sha256-xqFciQd9+GSFHxQbcqwcZrieuoaJ+GXYDl4sqjvTnpU=",
       "System.Text.RegularExpressions.wasm": "sha256-QtzUiet1dIc7potIirp9lrs13Ub7rQR5SUxfR+TiKzA=",
       "System.Private.CoreLib.wasm": "sha256-0PgTcTJOdlSt4lzuo6dvZV52cNlwMAN95khppIFAtHs=",
-      "KnowYourBand.wasm": "sha256-QziE4KTZxTpj+qgfJQP3uZ1nzIDmbFEMPiedVH/G59s="
+      "KnowYourBand.wasm": "sha256-CYmDMUZUs28P1MU+HRSTlUpzX14IjcjujEkDpZMaD88="
     }
   },
   "cacheBootResources": true,
