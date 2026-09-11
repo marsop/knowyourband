@@ -9,6 +9,7 @@ This file contains guidelines and contextual information for AI agents interacti
 
 ## Data & Automation
 - Automated asset retrieval (e.g., fetching missing band logos) is managed via Python scripts in the `scripts/` directory. The established pattern separates orchestration (a global script iterating over data files like `logos.json`) from execution (a specific script downloading a single asset). Downloaded assets must follow an indexed naming convention that preserves all downloaded variations (e.g., `death.png`, `death_1.png`, `death_2.png`).
+- **Adding New Bands:** A new agent skill is available to easily add a new band to the data file and immediately retrieve its logo. Run `python scripts/add_band.py "Band Name"`. This script appends the band and expected logo path to `logos.json` and automatically triggers `scripts/get_missing_logos.py` to download the asset.
 
 ## Style & Aesthetics
 - The application employs a 'heavy metal' visual theme characterized by black/dark backgrounds, blood-red accents (e.g., `#d10000`), and the 'Metal Mania' Google Font. Icons (such as Bootstrap Icons) and UI elements are customized to fit this dark theme by embedding custom SVG data URLs directly in the CSS classes (e.g., in `NavMenu.razor.css`).
